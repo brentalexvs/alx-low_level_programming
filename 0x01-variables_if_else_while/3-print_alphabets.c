@@ -1,4 +1,4 @@
-#include <stdi.h>
+#include <stdio.h>
 
 /**
  * main - Write function to produce lower and uppercase alphabet
