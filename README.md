@@ -1,2 +1,1 @@
-# alx-low_level_programming
-First C programming repo
+This is a readme
