@@ -17,9 +17,9 @@ int main(void)
 	else if (i % 3 == 0)
 		printf("%s ", "Fizz");
 	else if (i % 5 == 0)
-		printf("%s", "Buzz");
+		printf("%s ", "Buzz");
 	else
-		printf("%d", i);
+		printf("%d ", i);
 	}
 	printf("\n");
 	return (0);
